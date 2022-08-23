@@ -1,4 +1,4 @@
-# Ecoomerce-Purchases-Analysis
+# Ecommerce-Purchases-Analysis
 To perform data analysis, I have mentioned some questions that we are going to solve one by one. 
 1. Display Top 10 Rows of The Dataset 
 2. Check Last 10 Rows of The Dataset 
